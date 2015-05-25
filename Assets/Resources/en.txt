@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "language" : "en",
+  "string_data": 
+  [
+    {
+        "tag" : "Y",
+        "word" : "GGGGGGGGGGGG"
+    },
+    {
+        "tag" : "B",
+        "word" : "BBBBBBBBBBBB"
+    }
+  ]
+}
